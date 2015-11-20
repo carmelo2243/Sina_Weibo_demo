@@ -1,3 +1,3 @@
-# iOSdemos
+# SinaWeibo_demo
 新浪微博客户端的山寨版。
 目前可以实现微博的浏览、点赞等功能。
